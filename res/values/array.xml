@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array1">
+        <item >zorge</item>
+        <item >ramallah</item>
+        <item >pakistan</item>
+    </string-array>
+    <string-array name="array2">
+        <item >7</item>
+        <item >5</item>
+        <item >99</item>
+    </string-array>
+    
+</resources>
